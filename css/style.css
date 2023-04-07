@@ -49,7 +49,7 @@
 .menu-item:hover {
     border-top: 2px solid ;
     color: var(--main-color);
-    padding-top: 16px;
+    padding-top: 20px;
 }
 
 .menu-item {
@@ -421,6 +421,7 @@ body {
 
 .footer-title {
     margin-top: 0; 
+    font-size: 18px;
 }
 
 .footer-item {
